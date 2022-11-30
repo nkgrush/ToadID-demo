@@ -4,7 +4,7 @@
 
 Model weights are storeds at `api/` directory.
 
-`git lfs install`
+`git lfs install`  
 `git lfs pull`
 
 to load large files
@@ -32,8 +32,8 @@ You will also see any lint errors in the console.
 
 ### Flask restAPI
 
-In a separate terminal
-`cd api`
+In a separate terminal  
+`cd api`  
 `./start.sh`
 
 Depends on pytorch, yolov5, torchvision, flask, PIL, cv2
