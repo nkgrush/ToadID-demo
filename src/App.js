@@ -196,7 +196,7 @@ class App extends PureComponent {
         </div>
         <div className={'container kek'}> </div>
         <footer>
-          <p className='container'>Грушецкий Николай, 2021</p>
+          <p className='container'>Грушецкий Николай, 2022</p>
         </footer>
       </div>
     );
