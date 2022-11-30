@@ -1,6 +1,5 @@
 # Toad re-identification
 
-
 ## git lfs
 
 Model weights are storeds at `api/` directory.
@@ -21,8 +20,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you should run:
 
 ### React-frontend
+Run `yarn install` to install dependencies
 
-`yarn start`
+`yarn start` to start.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -38,4 +38,4 @@ In a separate terminal
 
 Depends on pytorch, yolov5, torchvision, flask, PIL, cv2
 
-Sample images for testing avaliable at test_crop
+You can select pre-cropped sample images for testing from `api/test_crop`. Complete training and validation dataset will be released with the paper.
