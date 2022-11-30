@@ -1,0 +1,111 @@
+h1 {
+    color: cornsilk;
+    font-size: 200%;
+}
+
+.kek {
+    background-color: cadetblue;
+    font-family: monospace;
+    color: cornsilk;
+    font-size: 24px;
+}
+
+
+.App-logo {
+    width: 10vh;
+    height: 10vh;
+    animation: rotation 7s infinite linear;
+}
+
+.boxtext {
+    vertical-align: middle;
+}
+
+hr {
+    background-color: cornsilk;
+}
+
+button {
+    height: 6vh;
+    width: 7vw;
+}
+
+.button-holder {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+
+.toadimg {
+    max-width: 100%;
+}
+
+.App {
+    background-color: #1c1a1a;
+    color: cornsilk;
+    zoom: 100%;
+    font-size: 150%;
+}
+
+.title-fit {
+    height: 15%;
+}
+
+header {
+    padding-top: 8px;
+    margin-bottom: 16px;
+    background-color: white;
+    color: black;
+}
+
+.logo-container {
+    float: left;
+    height: 6vh;
+    width: 6vh;
+    margin-right: 2vh;
+    posiiton: relative;
+}
+
+ul {
+    list-style: square;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    padding-bottom: 6px;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.narrow {
+    width: 40%;
+}
+
+#cropper {
+    text-align: center;
+}
+
+input {
+    max-width: 100%;
+    color: cornsilk;
+}
+
+.coral-black {
+    color: black;
+}
+
+.title {
+    font-size: 6vh;
+    font-family: monospace;
+    font-weight: bold;
+    height: 100%;
+}
