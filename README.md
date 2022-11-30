@@ -3,7 +3,7 @@
 
 ## git lfs
 
-Model weights are storeds at 'api/' folder.
+Model weights are storeds at `api/` directory.
 
 `git lfs install`
 `git lfs pull`
