@@ -9,8 +9,8 @@
 /api/__pycache__
 #/api/toadbox
 
-*.pkl
-*.pth
+#*.pkl
+#*.pth
 *.old
 
 # dependencies
