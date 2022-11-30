@@ -1,6 +1,15 @@
 # Toad re-identification
 
 
+## git lfs
+
+Model weights are storeds at 'api/' folder.
+
+`git lfs install`
+`git lfs pull`
+
+to load large files
+
 ## Training scripts
 
 Training scripts and weights are located at `train` directory.
